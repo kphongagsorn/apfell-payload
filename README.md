@@ -1,4 +1,4 @@
-# apfell-payload
+# Apfell Payload
 Making pkg payload from Javascript app
 
 **Testing Environment:**  
