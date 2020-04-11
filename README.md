@@ -6,8 +6,8 @@ Making pkg payload from Javascript app
 `pkgbuild --root ~/Documents/tech_infosec/apfell-testing/payloads/apfell_pkg_installer_dropper/ --scripts scripts --install-location /tmp --identifier my.fake.pkg my_package.pkg`
 
 
-### Using this script to make pkg because pkgbuild is fickle
-Script: https://github.com/scriptingosx/quickpkg
+Using this script to make pkg because pkgbuild is fickle:
+https://github.com/scriptingosx/quickpkg
 
 `python quickpkg --install-location /tmp --postinstall ./Scripts/postinstall.sh apfelljxa.app`
 
