@@ -1,5 +1,5 @@
 # Apfell Payload
-Making pkg payload from Javascript app
+Making pkg payload from macOS JXA app
 
 **Testing Environment:**  
 Ubuntu 18.04.1\
