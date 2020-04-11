@@ -1,5 +1,5 @@
 # apfell-payload
-Making pkg installer payload from Javascript app
+Making pkg payload from Javascript app
 
 
 ## Making the pkg payload
