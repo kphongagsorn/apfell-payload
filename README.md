@@ -12,7 +12,7 @@ Script: https://github.com/scriptingosx/quickpkg
 `python quickpkg --install-location /tmp --postinstall ./Scripts/postinstall.sh apfelljxa.app`
 
 
-### Creating apfelljxa.app with Script Editor
+## Creating apfelljxa.app with Script Editor
 
 Create apfelljxa.app with the following Javascript:
 
