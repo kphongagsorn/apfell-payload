@@ -2,8 +2,7 @@
 Making pkg payload from macOS JXA app
 
 **Testing Environment:**  
-Ubuntu 18.04.1\
-[Apfell v1.4](https://github.com/its-a-feature/Apfell)\
+Ubuntu 18.04.1 running [Apfell v1.4](https://github.com/its-a-feature/Apfell)\
 MacOS 10.15.3
 
 
