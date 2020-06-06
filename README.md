@@ -1,5 +1,5 @@
 # Apfell Payload
-Making pkg payload from macOS JXA app
+Making Installer package payloads with Apfell
 
 [Blog post about it](https://kphongag.blogspot.com/2020/04/testing-with-apfell-javascript-for.html)
 
