@@ -1,6 +1,8 @@
 # Apfell Payload
 Making pkg payload from macOS JXA app
 
+[Blog post about it] (https://kphongag.blogspot.com/2020/04/testing-with-apfell-javascript-for.html)
+
 **Testing Environment:**  
 Ubuntu 18.04.1 running [Apfell v1.4](https://github.com/its-a-feature/Apfell)\
 MacOS 10.15.3
