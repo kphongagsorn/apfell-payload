@@ -9,7 +9,7 @@ MacOS 10.15.3
 
 
 ## Making the package payload
-Using this [script](https://github.com/scriptingosx/quickpkg) to make pkg because pkgbuild is fickle.  
+Using this [script](https://github.com/scriptingosx/quickpkg) to make pkg. 
 Run to build pkg:\
 `python quickpkg --install-location /tmp --postinstall ./Scripts/postinstall.sh apfelljxa.app`
 
