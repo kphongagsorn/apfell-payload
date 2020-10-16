@@ -1,4 +1,4 @@
-# Apfell Payload
+# Mythic/Apfell Payload
 Making an Installer package payload with Apfell
 
 [Blog post about it](https://kphongag.blogspot.com/2020/04/testing-with-apfell-javascript-for.html)
